@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\bin\Debug\kerucut.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\bin\Debug\kerucut.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\bin\Debug\kerucut.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\bin\Debug\kerucut.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\obj\Debug\kerucut.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\obj\Debug\kerucut.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\obj\Debug\kerucut.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\obj\Debug\kerucut.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\obj\Debug\kerucut.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\obj\Debug\kerucut.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\kerucut\kerucut\obj\Debug\kerucut.pdb
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\bin\Debug\kerucut.exe.config
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\obj\Debug\kerucut.exe
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\obj\Debug\kerucut.xml
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\obj\Debug\kerucut.pdb
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\bin\Debug\kerucut.exe
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\bin\Debug\kerucut.pdb
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\bin\Debug\kerucut.xml
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\obj\Debug\kerucut.vbprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\obj\Debug\kerucut.Form1.resources
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\obj\Debug\kerucut.Resources.resources
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kerucut\kerucut\obj\Debug\kerucut.vbproj.GenerateResource.Cache
