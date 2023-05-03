@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\bin\Debug\kubus.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\bin\Debug\kubus.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\bin\Debug\kubus.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\bin\Debug\kubus.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\obj\Debug\kubus.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\obj\Debug\kubus.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\obj\Debug\kubus.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\obj\Debug\kubus.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\obj\Debug\kubus.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\obj\Debug\kubus.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\kubus\kubus\obj\Debug\kubus.pdb
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\bin\Debug\kubus.exe.config
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\obj\Debug\kubus.exe
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\obj\Debug\kubus.xml
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\obj\Debug\kubus.pdb
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\bin\Debug\kubus.exe
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\bin\Debug\kubus.pdb
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\bin\Debug\kubus.xml
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\obj\Debug\kubus.vbprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\obj\Debug\kubus.Form1.resources
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\obj\Debug\kubus.Resources.resources
+D:\Kuliah\SEMESTER 6\Pertemuan3\PRAKTIKUM3\kubus\kubus\obj\Debug\kubus.vbproj.GenerateResource.Cache
