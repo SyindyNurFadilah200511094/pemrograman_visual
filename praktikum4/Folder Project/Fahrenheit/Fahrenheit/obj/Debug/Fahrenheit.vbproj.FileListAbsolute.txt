@@ -1,0 +1,42 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Resources.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.vbproj.GenerateResource.Cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.vbprojResolveAssemblyReference.cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Resources.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.vbproj.GenerateResource.Cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.vbprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Resources.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\praktikum4\Folder Project\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.vbproj.GenerateResource.Cache
