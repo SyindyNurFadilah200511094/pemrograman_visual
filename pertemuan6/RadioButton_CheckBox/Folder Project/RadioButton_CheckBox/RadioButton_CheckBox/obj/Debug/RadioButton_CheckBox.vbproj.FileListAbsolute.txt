@@ -1,0 +1,33 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.exe.config
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.vbprojResolveAssemblyReference.cache
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.Form1.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.Resources.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.vbproj.GenerateResource.Cache
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.exe.config
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.exe
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.xml
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.pdb
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.exe
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.pdb
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\bin\Debug\RadioButton_CheckBox.xml
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.vbprojResolveAssemblyReference.cache
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.Form1.resources
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.Resources.resources
+C:\Users\sindi nur fadilah\Downloads\pertemuan6\pertemuan6\Tugas6\RadioButton_CheckBox\Folder Project\RadioButton_CheckBox\RadioButton_CheckBox\obj\Debug\RadioButton_CheckBox.vbproj.GenerateResource.Cache
