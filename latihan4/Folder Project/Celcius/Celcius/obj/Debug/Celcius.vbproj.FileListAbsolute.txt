@@ -1,0 +1,44 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\bin\Debug\Celcius.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\bin\Debug\Celcius.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\bin\Debug\Celcius.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\bin\Debug\Celcius.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Celcius\Celcius\obj\Debug\Celcius.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.exe.config
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.vbprojResolveAssemblyReference.cache
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.Form1.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.Resources.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.vbproj.GenerateResource.Cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.exe.config
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.vbprojResolveAssemblyReference.cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.Form1.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.Resources.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\LATIHAN4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.vbproj.GenerateResource.Cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.exe.config
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\bin\Debug\Celcius.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.vbprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.Form1.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.Resources.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\latihan4\Folder Project\Celcius\Celcius\obj\Debug\Celcius.vbproj.GenerateResource.Cache
