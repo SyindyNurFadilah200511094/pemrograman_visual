@@ -1,0 +1,40 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\bin\Debug\Reamur.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\bin\Debug\Reamur.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\bin\Debug\Reamur.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\bin\Debug\Reamur.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\obj\Debug\Reamur.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\obj\Debug\Reamur.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\obj\Debug\Reamur.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\obj\Debug\Reamur.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\obj\Debug\Reamur.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Reamur\Reamur\obj\Debug\Reamur.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.exe.config
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.Form1.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.Resources.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.vbproj.GenerateResource.Cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.exe.config
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.Form1.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.Resources.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.vbproj.GenerateResource.Cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.exe.config
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\bin\Debug\Reamur.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.Form1.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.Resources.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Reamur\Reamur\obj\Debug\Reamur.vbproj.GenerateResource.Cache

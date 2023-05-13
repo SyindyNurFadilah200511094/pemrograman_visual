@@ -1,0 +1,44 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\bin\Debug\Kelvin.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\bin\Debug\Kelvin.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\bin\Debug\Kelvin.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\bin\Debug\Kelvin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\obj\Debug\Kelvin.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\obj\Debug\Kelvin.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\obj\Debug\Kelvin.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\obj\Debug\Kelvin.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\obj\Debug\Kelvin.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\obj\Debug\Kelvin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Kelvin\Kelvin\obj\Debug\Kelvin.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.exe.config
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.exe
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.pdb
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.xml
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.vbprojResolveAssemblyReference.cache
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.Form1.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.Resources.resources
+C:\Users\sahda\Documents\SEMUA MATERI KULIAH\SEMESTER 6\PEMROGRAMAN VISUAL\pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.vbproj.GenerateResource.Cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.exe.config
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.vbprojResolveAssemblyReference.cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.Form1.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.Resources.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.vbproj.GenerateResource.Cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.exe.config
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.exe
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.pdb
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\bin\Debug\Kelvin.xml
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.vbprojResolveAssemblyReference.cache
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.Form1.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.Resources.resources
+D:\Kuliah\SEMESTER 6\Pemrograman Visual\Pertemuan4\tugas4\Folder Project\Kelvin\Kelvin\obj\Debug\Kelvin.vbproj.GenerateResource.Cache
